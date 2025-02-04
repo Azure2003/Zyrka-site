@@ -16,9 +16,9 @@ const Guide = () => {
 
             <FeaturePhoneSlider/>
             <div className={'black'}>
-                <h4>
+                <h3>
                     Ready to Modernize Your Workflow?
-                </h4>
+                </h3>
             </div>
             <div>
                 <div className="contact-buttons" id="contact-buttons">
