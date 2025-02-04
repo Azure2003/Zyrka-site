@@ -9,9 +9,9 @@ const Guide = () => {
     return (
         <div id={'guide'}>
             <div className={'black'}>
-                <h4>
+                <h3>
                     Tired of wasting time running around your dealership?
-                </h4>
+                </h3>
             </div>
 
             <FeaturePhoneSlider/>
