@@ -28,7 +28,7 @@ const Guide = () => {
                     </Link>
 
                     <a
-                        href="mailto:example@example.com"
+                        href="mailto:info@zyrka.is"
                         className="contact-button email-button"
                     >
                         Email us
