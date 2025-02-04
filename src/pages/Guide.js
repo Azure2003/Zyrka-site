@@ -9,16 +9,16 @@ const Guide = () => {
     return (
         <div id={'guide'}>
             <div className={'black'}>
-                <h3>
+                <h4>
                     Tired of wasting time running around your dealership?
-                </h3>
+                </h4>
             </div>
 
             <FeaturePhoneSlider/>
             <div className={'black'}>
-                <h3>
+                <h4>
                     Ready to Modernize Your Workflow?
-                </h3>
+                </h4>
             </div>
             <div>
                 <div className="contact-buttons" id="contact-buttons">
