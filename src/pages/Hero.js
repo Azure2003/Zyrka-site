@@ -19,10 +19,10 @@ const Hero = () => {
                     </h1>
                     <p>
                 <span style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
-                    Unblock Your Lot.Find Cars Fast.
+                    Unblock Your Lot. Find Cars Fast.
                 </span><br />
                 <span>
-                 Zyrka helps you track every vehicle on your lot—
+                 Zyrka helps you track every vehicle on your lot— <br />
                 so your team stops wasting time and starts closing more deals.
                 </span>
                 </p>
