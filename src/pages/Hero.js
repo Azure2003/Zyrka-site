@@ -17,12 +17,16 @@ const Hero = () => {
                     <h1>
                         zyrka
                     </h1>
-                    <p style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
-                        Unblock Your Lot. Find Cars Fast.
-                    </p>
                     <p>
-                        Zyrka helps you track every vehicle on your lot-so your team stops wasting time and starts closing more deals.
-                    </p>
+                <span className="text-xl font-semibold">
+                    Unblock Your Lot.Find Cars Fast.
+                </span><br />
+                <span className="text-base">
+                 Zyrka helps you track every vehicle on your lot—
+                so your team stops wasting time and starts closing more deals.
+                </span>
+                </p>
+
                     <div className={'button-wrapper'}>
                         <HashLink smooth to={'/#guide1'} >
                             <button className={'prim-button'} color={'white'}>
