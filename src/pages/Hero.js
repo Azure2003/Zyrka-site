@@ -17,9 +17,11 @@ const Hero = () => {
                     <h1>
                         zyrka
                     </h1>
+                    <p style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
+                        Unblock Your Lot. Find Cars Fast.
+                    </p>
                     <p>
-                        Unblock Your Lot.<br />
-                        Find Cars Fast. Zyrka helps you track every vehicle on your lot-so your team stops wasting time and starts closing more deals.
+                        Zyrka helps you track every vehicle on your lot-so your team stops wasting time and starts closing more deals.
                     </p>
                     <div className={'button-wrapper'}>
                         <HashLink smooth to={'/#guide1'} >
