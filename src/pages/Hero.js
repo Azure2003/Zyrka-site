@@ -18,10 +18,11 @@ const Hero = () => {
                         zyrka
                     </h1>
                     <p>
-                        Automotive Lot Management
+                        Unblock Your Lot.
+                        Find Cars Fast. Zyrka helps you track every vehicle on your lot-so your team stops wasting time and starts closing more deals.
                     </p>
                     <div className={'button-wrapper'}>
-                        <HashLink smooth to={'/#contact-buttons'} >
+                        <HashLink smooth to={'/#guide1'} >
                             <button className={'prim-button'} color={'white'}>
                                 Get Started
                             </button>
@@ -38,7 +39,9 @@ const Hero = () => {
             <div id={'guide'}>
 
             </div>
+            <div id={'guide1'}>
             <Guide/>
+            </div>
         </div>
     );
 };
