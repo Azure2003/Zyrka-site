@@ -18,7 +18,7 @@ const Hero = () => {
                         zyrka
                     </h1>
                     <p>
-                        Unblock Your Lot.
+                        Unblock Your Lot.<br />
                         Find Cars Fast. Zyrka helps you track every vehicle on your lot-so your team stops wasting time and starts closing more deals.
                     </p>
                     <div className={'button-wrapper'}>
@@ -39,8 +39,9 @@ const Hero = () => {
             <div id={'guide'}>
 
             </div>
-            <div id={'guide1'}>
+           
             <Guide/>
+            <div id={'guide1'}>
             </div>
         </div>
     );
